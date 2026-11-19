@@ -34,7 +34,7 @@ I'm a student passionate about software development, data science and AI
 ### 🤝 Connect with me
 
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/charlie-casey-carney-a23439381/)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: charliecaseycarney@gmail.com
 - 💻 GitHub: [My Repositories](https://github.com/JiggyCCC)
 
 
