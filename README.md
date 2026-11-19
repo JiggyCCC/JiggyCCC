@@ -10,9 +10,11 @@ I'm a student passionate about software development, data science and AI
 ---
 
 
+
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,c,mysql,git,github,vscode,bootstrap&theme=light)](https://skillicons.dev)
+
 
 
 ---
