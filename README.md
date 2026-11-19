@@ -6,7 +6,7 @@ I'm a student passionate about software development, data science and AI
 
 - 🔭 I’m currently working on two projects - a data centric programming project using pyhton and its libraries such as NumPy, Pandas, SQlite and Matplotlib and a web development project using html, css, JavaScript, PHP, SQL and AI ( improve the websites accessibility and user standards ).
 - 🌱 I’m currently learning Python, postgreSQL, PHP, database management, machine learning
-- ⚡ Fun fact:
+- ⚡ Fun fact: If you burned all the data created in 1 day into DVDs, you could stack them on top of each other to reach the moon twice. 
 ---
 
 
