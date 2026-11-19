@@ -2,16 +2,37 @@
 
 ### Data Science and Artificial Intelligence Student at TU Dublin
 
+I'm a student passionate about software development, data science and AI
 
-**JiggyCCC/JiggyCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on two projects - a data centric programming project using pyhton and its libraries such as NumPy, Pandas, SQlite and Matplotlib and a web development project using html, css, JavaScript, PHP, SQL and AI ( improve the websites accessibility and user standards ).
+- 🌱 I’m currently learning Python, postgreSQL, PHP, database management, machine learning
+- ⚡ Fun fact:
+---
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+  <img src="https://skillicons.dev/iconsi?=html,css,js,php,python,mysql,git,github,vscode,bootstrap"/>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JiggyCCC&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiggyCCC&layout=compact&theme=default" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/charlie-casey-carney-a23439381/)
+- 📧 Email: YOUR_EMAIL
+- 💻 GitHub: [My Repositories](https://github.com/JiggyCCC)
+
+
