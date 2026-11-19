@@ -18,7 +18,6 @@ I'm a student passionate about software development, data science and AI
 
 
 ---
-
 ## GitHub Statistics
 
 <p align="center">
