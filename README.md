@@ -19,14 +19,11 @@ I'm a student passionate about software development, data science and AI
 
 ---
 
-### 📊 GitHub Statistics
+## GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JiggyCCC&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiggyCCC&layout=compact&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="180" />
 </p>
 
 ---
